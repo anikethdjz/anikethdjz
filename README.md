@@ -62,7 +62,7 @@ Full-stack web app simplifying financial learning with AI mentorship, simulators
 
 ### ♻️ [EcoByte - Smart E-Waste Management](https://ecobyte-web.netlify.app/)
 Smart marketplace connecting users with certified recyclers, rewarding responsible e-waste disposal.
-- **Tech:** Flutter, Firebase, Supabase, Gemini, Cloud Vision API
+- **Tech:** Flutter, Firebase, Supabase, Gemini, Cloud Vision API,Open street map
 - **Recognition:** Google Solution Challenge 2025
 
 ### 💧 JalMitra - AI Water Data Chatbot
