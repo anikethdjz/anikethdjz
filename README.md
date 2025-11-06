@@ -76,7 +76,7 @@ Intelligent assistant providing groundwater and rainfall insights with multiling
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anikethdjz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anikethdjz&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikethdjz&layout=compact&exclude_repo=repo1,repo2)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anikethdjz&theme=tokyonight&hide_border=true)
   
